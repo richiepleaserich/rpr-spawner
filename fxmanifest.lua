@@ -1,5 +1,11 @@
 fx_version 'cerulean'
 
+
+
+author 'RichiepleaseRich '
+description 'rpr-spawner'
+version '1.0.0'
+
 games {'gta5'}
 
 
